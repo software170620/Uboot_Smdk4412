@@ -1,1 +1,0 @@
-# UBoot_exynos4412
